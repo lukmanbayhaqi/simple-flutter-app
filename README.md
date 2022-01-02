@@ -1,6 +1,6 @@
-# my_app
+# simple-flutter-app
 
-A new Flutter project.
+Only for exam purposes at my university
 
 ## Getting Started
 
